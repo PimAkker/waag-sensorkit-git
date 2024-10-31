@@ -57,5 +57,7 @@ The project was a collaboration between the Waag, RIVM, and the province of Noor
             <div class="caption">Inside Real World</div>
         </div>
     </div>
+<embed src="manual_0506_test_read (1).pdf" width="800px" height="2100px" />
+
 </body>
 </html>
