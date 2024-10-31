@@ -57,6 +57,9 @@ The project was a collaboration between the Waag, RIVM, and the province of Noor
             <div class="caption">Inside Real World</div>
         </div>
     </div>
+
+Because the kit was designed for users to assemble themselves I also made an assembly manual for the Kit. This included multiple user tests to see if the manual was clear and easy to follow. The manual was made in Adobe Illustrator, using 3d renders from SolidWorks.
+
 <embed src="manual_0506_test_read (1).pdf" width="800px" height="2100px" />
 
 </body>
