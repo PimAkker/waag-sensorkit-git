@@ -3,6 +3,7 @@ This was a project from my internship at the Waag. I designed and partially manu
 
 The project was a collaboration between the Waag, RIVM, and the province of Noord-Holland. The goal was to create a network of air quality sensors that would be placed near TATA steel. The data collected by the sensors would be used to create a map of the air quality in the city. The sensors were designed to be low-cost and easy to assemble so that they could be deployed in large numbers.
 
+![alt text](image.png)
 <!DOCTYPE html>
 <html lang="en">
 <head>
