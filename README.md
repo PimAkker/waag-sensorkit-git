@@ -1,7 +1,7 @@
-This was a project from my internship a the Waag. I designed and and partially manufactured the mechanical for this air low cost air quality sensor for the project [hollandse luchten](https://hollandse-luchten.org/). During my internship I went from design to the production of 200 units. 
+This was a project from my internship at the Waag. I designed and partially manufactured the mechanical components for this low-cost air quality sensor for the project [hollandse luchten](https://hollandse-luchten.org/). During my internship, I went from design to the production of 200 units. 
 ![alt text](image_21.png)
 
-The project was a collaboration between the Waag, RIVM, and the province of Noord-Holland. The goal was to create a network of air quality sensors that would be placed in the city of Amsterdam. The data collected by the sensors would be used to create a map of the air quality in the city. The sensors were designed to be low cost and easy to assemble, so that they could be deployed in large numbers.
+The project was a collaboration between the Waag, RIVM, and the province of Noord-Holland. The goal was to create a network of air quality sensors that would be placed near TATA steel. The data collected by the sensors would be used to create a map of the air quality in the city. The sensors were designed to be low-cost and easy to assemble so that they could be deployed in large numbers.
 
 <!DOCTYPE html>
 <html lang="en">
